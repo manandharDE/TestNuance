@@ -1,0 +1,26 @@
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\bin\Debug\Tcs_MbsCtrl.exe
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\bin\Debug\Tcs_MbsCtrl.pdb
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\bin\Debug\Interop.MBSCTRLLib.dll
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Debug\ResolveAssemblyReference.cache
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Debug\Interop.MBSCTRLLib.dll
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.csproj.ResolveComReference.cache
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.FormMain.resources
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.Properties.Resources.resources
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.csproj.GenerateResource.Cache
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.exe
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.pdb
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.FormSSRC.resources
+C:\Users\manandhar\Desktop\20201215 DMWE Training (2)\20201215 DMWE Training\Tcs_MbsCtrl_20130418\Tcs_MbsCtrl\bin\Debug\Tcs_MbsCtrl.exe.config
+C:\Users\manandhar\Desktop\20201215 DMWE Training (2)\20201215 DMWE Training\Tcs_MbsCtrl_20130418\Tcs_MbsCtrl\bin\Debug\Tcs_MbsCtrl.exe
+C:\Users\manandhar\Desktop\20201215 DMWE Training (2)\20201215 DMWE Training\Tcs_MbsCtrl_20130418\Tcs_MbsCtrl\bin\Debug\Tcs_MbsCtrl.pdb
+C:\Users\manandhar\Desktop\20201215 DMWE Training (2)\20201215 DMWE Training\Tcs_MbsCtrl_20130418\Tcs_MbsCtrl\bin\Debug\Interop.MBSCTRLLib.dll
+C:\Users\manandhar\Desktop\20201215 DMWE Training (2)\20201215 DMWE Training\Tcs_MbsCtrl_20130418\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.csprojAssemblyReference.cache
+C:\Users\manandhar\Desktop\20201215 DMWE Training (2)\20201215 DMWE Training\Tcs_MbsCtrl_20130418\Tcs_MbsCtrl\obj\Debug\Interop.MBSCTRLLib.dll
+C:\Users\manandhar\Desktop\20201215 DMWE Training (2)\20201215 DMWE Training\Tcs_MbsCtrl_20130418\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.csproj.ResolveComReference.cache
+C:\Users\manandhar\Desktop\20201215 DMWE Training (2)\20201215 DMWE Training\Tcs_MbsCtrl_20130418\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.FormMain.resources
+C:\Users\manandhar\Desktop\20201215 DMWE Training (2)\20201215 DMWE Training\Tcs_MbsCtrl_20130418\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.FormSSRC.resources
+C:\Users\manandhar\Desktop\20201215 DMWE Training (2)\20201215 DMWE Training\Tcs_MbsCtrl_20130418\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.Properties.Resources.resources
+C:\Users\manandhar\Desktop\20201215 DMWE Training (2)\20201215 DMWE Training\Tcs_MbsCtrl_20130418\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.csproj.GenerateResource.cache
+C:\Users\manandhar\Desktop\20201215 DMWE Training (2)\20201215 DMWE Training\Tcs_MbsCtrl_20130418\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.csproj.CoreCompileInputs.cache
+C:\Users\manandhar\Desktop\20201215 DMWE Training (2)\20201215 DMWE Training\Tcs_MbsCtrl_20130418\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.exe
+C:\Users\manandhar\Desktop\20201215 DMWE Training (2)\20201215 DMWE Training\Tcs_MbsCtrl_20130418\Tcs_MbsCtrl\obj\Debug\Tcs_MbsCtrl.pdb

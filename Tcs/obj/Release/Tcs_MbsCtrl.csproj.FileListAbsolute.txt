@@ -1,0 +1,12 @@
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Release\Interop.MBSCTRLLib.dll
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Release\Tcs_MbsCtrl.csproj.ResolveComReference.cache
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\bin\Release\Tcs_MbsCtrl.exe
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\bin\Release\Tcs_MbsCtrl.pdb
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\bin\Release\Interop.MBSCTRLLib.dll
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Release\ResolveAssemblyReference.cache
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Release\Tcs_MbsCtrl.FormMain.resources
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Release\Tcs_MbsCtrl.Properties.Resources.resources
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Release\Tcs_MbsCtrl.csproj.GenerateResource.Cache
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Release\Tcs_MbsCtrl.exe
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Release\Tcs_MbsCtrl.pdb
+V:\_cvs\PreSales\_TestApps\Tcs_MbsCtrl\obj\Release\Tcs_MbsCtrl.FormSSRC.resources
